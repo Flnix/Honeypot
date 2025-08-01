@@ -1,4 +1,4 @@
-# Simple Honeypot Project
+# Honeypot
 
 ---
 
